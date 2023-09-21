@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"baseUrl": ".",
+		"paths": {
+			"_components/*": ["src/components/*"],
+			"_supabase": ["src/supabase/init.ts"]
+		}
+	}
+}
